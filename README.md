@@ -8,4 +8,5 @@ In this course we explored image segmentation, object localization, and well as 
 3) Identified which parts of an image are being used by our model to make its predictions using class activation maps and saliency maps and apply these ML interpretation methods to inspect and improve the design of a well know neural network, so-called AlexNet.
 
 License for all notebooks belong to DeepLearning.AI
+
 CC-BY-NC-ND: deeplearning.ai
